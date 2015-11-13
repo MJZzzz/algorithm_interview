@@ -12,6 +12,10 @@ Challenge
 O(n) time and O(1) extra space
 
 
+---
+
+
+
 
 使用哈希表统计不同数字出现的次数，超过二分之一即返回当前数字.
 
