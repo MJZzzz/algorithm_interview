@@ -59,7 +59,7 @@ O(n) time and O(1) extra space
     }    
 ```    
     
-两两抵消 第二种 这个过不了
+两两抵消 第二种 这个过不了 以后研究
 ```
     public int majorityNumber(ArrayList<Integer> nums) {
         // write your code
