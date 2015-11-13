@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [Array and Numbers](array_and_numbers.md)
-   * [Majority Number](majority_number.md)
    * [Majority Number II](majority_number_ii.md)
+   * [Majority Number](majority_number.md)
 
