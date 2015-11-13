@@ -10,7 +10,7 @@ The path may end at any node in the tree.
 
 
 
-左右找个大于0的 没有就不取
+左右找个大的 并且大于0的 没有就不取
 
     public int maxPathSum2(TreeNode root){
         if(root == null){
