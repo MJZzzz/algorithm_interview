@@ -14,7 +14,9 @@ O(n) time and O(1) extra space
 
 
 使用哈希表统计不同数字出现的次数，超过二分之一即返回当前数字.
-占据过多空间
+
+* 占据过多空间
+
 
 ```
  public int majorityNumber(ArrayList<Integer> nums) {
@@ -57,6 +59,9 @@ O(n) time and O(1) extra space
             }
             
             return candidate;
+            
+            还需要check是不是存在majority number. 
+            比如1 2 3 4 5 return 5
     }    
 ```    
     
